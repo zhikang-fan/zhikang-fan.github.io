@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student at Gaoling School of Artificial Intelligence (GSAI), Renmin University of China (RUC), advised by Prof. Weiran Shen. Before that, I obtained a B.S. degree in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(HUST).
+I am a fourth-year Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm) (GSAI), [Renmin University of China](https://en.ruc.edu.cn/), advised by Prof. [Weiran Shen](https://www.weiran-shen.info/). Before that, I obtained a B.S. degree in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST).
 
 My research interest lies in the intersection between computer science and economics -- addressing problems with economic motivations through the lens of computer science. Specifically, my research involves the following fields:
 - Mechanism design in environments with information asymmetry.
@@ -30,6 +30,7 @@ My research interest lies in the intersection between computer science and econo
 
 # 📝 Publications 
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,24 +38,31 @@ My research interest lies in the intersection between computer science and econo
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Zhikang Fan**, Weiran Shen. [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with a Far-Sighted Receiver](https://github.com). ICAPS 2024.
+- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://github.com). IJCAI 2023.
+- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://github.com). AAMAS 2023.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Second Class Academic Scholarship, Renmin University of China
+- *2020.06* Outstanding Graduates, Huazhong University of Science and Technology.
+- *2018.09* Merit Student Scholarship, Huazhong University of Science and Technology.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - 2025.06(expected)*, Ph.D. Renmin University of China. 
+- *2016.09 - 2020.06*, B.S. Huazhong University of Science and Technology
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2024.04*, Huawei, Beijing.
