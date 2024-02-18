@@ -26,7 +26,8 @@ My research interest lies in the intersection between computer science and econo
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICAPS 2024. 
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2023. 
+- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2023.
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by AAMAS 2023 (Extended abstract).
 
 # 📝 Publications 
 
