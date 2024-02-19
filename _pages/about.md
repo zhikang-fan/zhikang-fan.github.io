@@ -27,7 +27,7 @@ My research interest lies in the intersection between computer science and econo
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICAPS 2024. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2023.
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by AAMAS 2023 (Extended abstract).
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by AAMAS 2023.
 
 # 📝 Publications 
 
@@ -51,7 +51,7 @@ My research interest lies in the intersection between computer science and econo
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [A General Framework for Playing General-Sum Signaling Games against Black-Box Players](https://github.com). Under review.
 - **Zhikang Fan**, Weiran Shen. [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with a Far-Sighted Receiver](https://github.com). ICAPS 2024.
 - **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://github.com). IJCAI 2023.
-- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://github.com). AAMAS 2023.
+- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://github.com). AAMAS 2023 (Extended abstract).
 
 # 🎖 Honors and Awards
 - *2023.10* Second Class Academic Scholarship, Renmin University of China
