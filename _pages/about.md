@@ -50,8 +50,8 @@ My research interest lies in the intersection between computer science and econo
 - **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://github.com). Under review.
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [A General Framework for Playing General-Sum Signaling Games against Black-Box Players](https://github.com). Under review.
 - **Zhikang Fan**, Weiran Shen. [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with a Far-Sighted Receiver](https://github.com). ICAPS 2024.
-- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://github.com). IJCAI 2023.
-- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://github.com). AAMAS 2023 (Extended abstract).
+- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ijcai.org/proceedings/2023/0300.pdf). IJCAI 2023.
+- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2922.pdf). AAMAS 2023 (Extended abstract).
 
 # 🎖 Honors and Awards
 - *2023.10* Second Class Academic Scholarship, Renmin University of China
