@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhikang Fan"
-description              : "Ph.D. candidate"
+description              : "Ph.D. candidate at Renmin University of China"
 repository               : "zhikang-fan/zhikang-fan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhikang Fan"
   avatar           : "images/wine.png"
-  bio              : "Renmin University of China"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
