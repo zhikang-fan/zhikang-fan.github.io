@@ -49,7 +49,7 @@ My research interest lies in the intersection between computer science and econo
 - **Zhikang Fan**, Weiran Shen. [Optimal Mediation Mechanisms in Bilateral Trade](https://zhikang-fan.github.io/). Under review.
 - **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/). Under review.
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [A General Framework for Playing General-Sum Signaling Games against Black-Box Players](https://zhikang-fan.github.io/). Under review.
-- Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen. [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/). Under review.
+<!-- - Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen. [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/). Under review. -->
 - **Zhikang Fan**, Weiran Shen. [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with a Far-Sighted Receiver](https://zhikang-fan.github.io/). ICAPS 2024.
 - **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ijcai.org/proceedings/2023/0300.pdf). IJCAI 2023.
 - **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2922.pdf). AAMAS 2023 (Extended abstract).
