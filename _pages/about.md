@@ -47,9 +47,15 @@ My research interest lies in the intersection between computer science and econo
 -->
 
 
-- **Zhikang Fan**, Weiran Shen. [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty](https://openreview.net/pdf?id=S92C7ywZAQ). ICAPS 2024.
-- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ijcai.org/proceedings/2023/0300.pdf). IJCAI 2023.
-- **Zhikang Fan**, Weiran Shen. [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2922.pdf). AAMAS 2023 (Extended abstract).
+- [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty](https://openreview.net/pdf?id=S92C7ywZAQ).
+**Zhikang Fan**, Weiran Shen.
+The 34th International Conference on Automated Planning and Scheduling (ICAPS), 2024.
+- [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ijcai.org/proceedings/2023/0300.pdf).
+**Zhikang Fan**, Weiran Shen. 
+The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+- [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2922.pdf).
+**Zhikang Fan**, Weiran Shen. 
+The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023. (Extended abstract)
 
 <!-- 
 - Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen. [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/). Under review. 
