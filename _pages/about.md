@@ -54,9 +54,9 @@ My research interest lies in the intersection between computer science and econo
 The 34th International Conference on Automated Planning and Scheduling (ICAPS), 2024.
 - [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ijcai.org/proceedings/2023/0300.pdf).
 
-**Zhikang Fan**, Weiran Shen. 
+  **Zhikang Fan**, Weiran Shen. 
 
-The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+  The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 - [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2922.pdf).
 
 **Zhikang Fan**, Weiran Shen. 
