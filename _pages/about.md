@@ -48,13 +48,19 @@ My research interest lies in the intersection between computer science and econo
 
 
 - [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty](https://openreview.net/pdf?id=S92C7ywZAQ).
+
 **Zhikang Fan**, Weiran Shen.
+
 The 34th International Conference on Automated Planning and Scheduling (ICAPS), 2024.
 - [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ijcai.org/proceedings/2023/0300.pdf).
+
 **Zhikang Fan**, Weiran Shen. 
+
 The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 - [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2922.pdf).
+
 **Zhikang Fan**, Weiran Shen. 
+
 The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023. (Extended abstract)
 
 <!-- 
