@@ -25,6 +25,7 @@ My research interest lies in the intersection between computer science and econo
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICAPS 2024. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2023.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by AAMAS 2023.
@@ -49,9 +50,9 @@ My research interest lies in the intersection between computer science and econo
 
 - [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty](https://openreview.net/pdf?id=S92C7ywZAQ).
 
-**Zhikang Fan**, Weiran Shen.
+  **Zhikang Fan**, Weiran Shen.
 
-The 34th International Conference on Automated Planning and Scheduling (ICAPS), 2024.
+  The 34th International Conference on Automated Planning and Scheduling (ICAPS), 2024.
 - [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ijcai.org/proceedings/2023/0300.pdf).
 
   **Zhikang Fan**, Weiran Shen. 
@@ -59,9 +60,9 @@ The 34th International Conference on Automated Planning and Scheduling (ICAPS), 
   The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 - [Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2922.pdf).
 
-**Zhikang Fan**, Weiran Shen. 
+  **Zhikang Fan**, Weiran Shen. 
 
-The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023. (Extended abstract)
+  The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023. (Extended abstract)
 
 <!-- 
 - Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen. [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/). Under review. 
