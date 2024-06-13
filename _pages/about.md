@@ -25,7 +25,8 @@ My research interest lies in the intersection between computer science and econo
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024.
+- *2024.06*: &nbsp;🎉🎉 Our paper ``Two-stage Auction Design in Online Advertising'' is accepted by EC'24 Workshop on Frontiers of Online Advertising.
+- *2024.04*: &nbsp;🎉🎉 Our paper is accepted by IJCAI 2024.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICAPS 2024. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2023.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by AAMAS 2023.
@@ -47,7 +48,11 @@ My research interest lies in the intersection between computer science and econo
 </div>
 -->
 
+- [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/).
 
+  Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen.
+
+  The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 - [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty](https://openreview.net/pdf?id=S92C7ywZAQ).
 
   **Zhikang Fan**, Weiran Shen.
@@ -63,13 +68,10 @@ My research interest lies in the intersection between computer science and econo
   **Zhikang Fan**, Weiran Shen. 
 
   The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023. (Extended abstract)
-- [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/).
 
-  Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen.
-
-  The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 
 # 📝 Working Papers 
+- **Zhikang Fan**, Lan Hu, Ruirui Wang, Zhongrui Ma, Yue Wang, Qi Ye, Weiran Shen. [Two-stage Auction Design in Online Advertising](https://zhikang-fan.github.io/). Under review.
 - **Zhikang Fan**, Weiran Shen. [Optimal Mediation Mechanisms in Bilateral Trade](https://zhikang-fan.github.io/). Under review.
 - **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/). Under review.
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [A General Framework for Playing General-Sum Signaling Games against Black-Box Players](https://zhikang-fan.github.io/). Under review.
