@@ -92,7 +92,8 @@ My research interest lies in the intersection between computer science and econo
 -->
 
 # 💻 Internships
-- *2023.05 - 2024.04*, Huawei, Beijing.
+- *2024.06 - Now*, Meituan, Beijing.
+- *2023.06 - 2024.05*, Huawei, Beijing.
 
 # 🗺️ Visitor Map
 
