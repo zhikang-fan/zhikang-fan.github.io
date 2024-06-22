@@ -25,7 +25,7 @@ My research interest lies in the intersection between computer science and econo
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our paper ``Two-stage Auction Design in Online Advertising'' is accepted by EC'24 Workshop on Frontiers of Online Advertising.
+- *2024.06*: &nbsp;🎉🎉 Our paper ''Two-stage Auction Design in Online Advertising'' is accepted by EC'24 Workshop on Frontiers of Online Advertising.
 - *2024.04*: &nbsp;🎉🎉 Our paper is accepted by IJCAI 2024.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICAPS 2024. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2023.
