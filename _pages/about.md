@@ -74,7 +74,7 @@ My research interest lies in the intersection between computer science and econo
 - **Zhikang Fan**, Lan Hu, Ruirui Wang, Zhongrui Ma, Yue Wang, Qi Ye, Weiran Shen. [Two-stage Auction Design in Online Advertising](https://zhikang-fan.github.io/). Under review.
 - **Zhikang Fan**, Weiran Shen. [Optimal Mediation Mechanisms in Bilateral Trade](https://zhikang-fan.github.io/). Under review.
 - **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/). Under review.
-- Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [A General Framework for Playing General-Sum Signaling Games against Black-Box Players](https://zhikang-fan.github.io/). Under review.
+- Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [Information Design with Deep Learning: A Decentralized Training Approach](https://zhikang-fan.github.io/). Under review.
 
 # 🎖 Honors and Awards
 - *2023.10* Second Class Academic Scholarship, Renmin University of China
