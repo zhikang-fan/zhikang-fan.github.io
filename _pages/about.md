@@ -25,6 +25,7 @@ My research interest lies in the intersection between computer science and econo
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Our paper ''Optimal Fixed-price Mechanism with Signaling'' is accepted by DAI'24.
 - *2024.06*: &nbsp;🎉🎉 Our paper ''Two-stage Auction Design in Online Advertising'' is accepted by EC'24 Workshop on Frontiers of Online Advertising.
 - *2024.04*: &nbsp;🎉🎉 Our paper is accepted by IJCAI 2024.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICAPS 2024. 
@@ -48,6 +49,16 @@ My research interest lies in the intersection between computer science and econo
 </div>
 -->
 
+- [Optimal Fixed-price Mechanism with Signaling](https://zhikang-fan.github.io/).
+
+  **Zhikang Fan**, Weiran Shen.
+
+  The 6th International Conference on Distributed Artificial Intelligence (DAI), 2024.
+- [Two-stage Auction Design in Online Advertising](https://zhikang-fan.github.io/).
+
+  **Zhikang Fan**, Lan Hu, Ruirui Wang, Zhongrui Ma, Yue Wang, Qi Ye, Weiran Shen.
+
+  The 25th ACM Conference on Economics and Computation (EC) Workshop on Frontiers of Online Advertising, 2024.
 - [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/).
 
   Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen.
