@@ -90,7 +90,7 @@ My research interest lies in the intersection between computer science and econo
 # 🎖 Honors and Awards
 - *2023.10* Second Class Academic Scholarship, Renmin University of China
 - *2020.06* Outstanding Graduates, Huazhong University of Science and Technology.
-- *2019.09* HNA Scholarship, Huazhong University of Science and Technology.
+- *2019.09* Hainan Airlines(HNA) Scholarship, Huazhong University of Science and Technology.
 - *2018.09* Merit Student Scholarship, Huazhong University of Science and Technology.
 
 # 📖 Educations
