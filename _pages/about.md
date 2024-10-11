@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm) (GSAI), [Renmin University of China](https://en.ruc.edu.cn/), advised by Prof. [Weiran Shen](https://www.weiran-shen.info/). Before that, I obtained a B.S. degree in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST).
+I am a final year Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm) (GSAI), [Renmin University of China](https://en.ruc.edu.cn/), advised by Prof. [Weiran Shen](https://www.weiran-shen.info/). Before that, I obtained a B.S. degree in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST).
 
 My research interest lies in the intersection between computer science and economics -- addressing problems with economic motivations through the lens of computer science. Specifically, my research involves the following fields:
 - Mechanism design in environments with information asymmetry.
-- Learning-based auction design.
+- Machine Learning based mechanism design.
 
 
 # 🔥 News
@@ -90,10 +90,11 @@ My research interest lies in the intersection between computer science and econo
 # 🎖 Honors and Awards
 - *2023.10* Second Class Academic Scholarship, Renmin University of China
 - *2020.06* Outstanding Graduates, Huazhong University of Science and Technology.
+- *2019.09* HNA Scholarship, Huazhong University of Science and Technology.
 - *2018.09* Merit Student Scholarship, Huazhong University of Science and Technology.
 
 # 📖 Educations
-- *2020.06 - present*, Ph.D. Renmin University of China. 
+- *2020.09 - present*, Ph.D. Renmin University of China. 
 - *2016.09 - 2020.06*, B.S. Huazhong University of Science and Technology
 
 <!--
@@ -103,7 +104,7 @@ My research interest lies in the intersection between computer science and econo
 -->
 
 # 💻 Internships
-- *2024.06 - Now*, Meituan, Beijing.
+- *2024.06 - 2025.09*, Meituan, Beijing.
 - *2023.06 - 2024.05*, Huawei, Beijing.
 
 # 🗺️ Visitor Map
