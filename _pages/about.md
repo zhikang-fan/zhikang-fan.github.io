@@ -21,16 +21,17 @@ I am a final year Ph.D. student at [Gaoling School of Artificial Intelligence](h
 
 My research interest lies in the intersection between computer science and economics -- addressing problems with economic motivations through the lens of computer science. Specifically, my research involves the following fields:
 - Mechanism design in environments with information asymmetry.
-- Machine Learning based mechanism design.
+- Data-driven mechanism design.
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our paper ''Two-stage Auction Design in Online Advertising'' is accepted by WWW'25.
 - *2024.10*: &nbsp;🎉🎉 Our paper ''Optimal Fixed-price Mechanism with Signaling'' is accepted by DAI'24.
 - *2024.06*: &nbsp;🎉🎉 Our paper ''Two-stage Auction Design in Online Advertising'' is accepted by EC'24 Workshop on Frontiers of Online Advertising.
 - *2024.04*: &nbsp;🎉🎉 Our paper is accepted by IJCAI 2024.
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICAPS 2024. 
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2023.
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by AAMAS 2023.
+- *2024.02*: &nbsp;🎉🎉 Our paper is accepted by ICAPS 2024. 
+- *2023.04*: &nbsp;🎉🎉 Our paper is accepted by IJCAI 2023.
+- *2023.01*: &nbsp;🎉🎉 Our paper is accepted by AAMAS 2023.
 
 # 📝 Publications 
 
@@ -49,22 +50,27 @@ My research interest lies in the intersection between computer science and econo
 </div>
 -->
 
-- [Optimal Fixed-price Mechanism with Signaling](https://zhikang-fan.github.io/).
+- [Two-stage Auction Design in Online Advertising](https://dl.acm.org/doi/10.1145/3696410.3714735).
+
+  **Zhikang Fan**, Lan Hu, Ruirui Wang, Zhongrui Ma, Yue Wang, Qi Ye, Weiran Shen.
+
+  The Web Conference (WWW), 2025.
+- [Optimal Fixed-price Mechanism with Signaling](https://arxiv.org/pdf/2411.10791).
 
   **Zhikang Fan**, Weiran Shen.
 
   The 6th International Conference on Distributed Artificial Intelligence (DAI), 2024.
-- [Two-stage Auction Design in Online Advertising](https://zhikang-fan.github.io/).
+- [Two-stage Auction Design in Online Advertising](https://dl.acm.org/doi/10.1145/3696410.3714735).
 
   **Zhikang Fan**, Lan Hu, Ruirui Wang, Zhongrui Ma, Yue Wang, Qi Ye, Weiran Shen.
 
   The 25th ACM Conference on Economics and Computation (EC) Workshop on Frontiers of Online Advertising, 2024.
-- [Optimal Auction Design with User Coupons in Advertising Systems](https://zhikang-fan.github.io/).
+- [Optimal Auction Design with User Coupons in Advertising Systems](https://www.ijcai.org/proceedings/2024/0322.pdf).
 
   Xiaodong Liu, **Zhikang Fan**, Yiming Ding, Yuan Guo, Lihua Zhang, Changcheng Li, Dongying Kong, Han Li, Weiran Shen.
 
   The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024.
-- [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty](https://openreview.net/pdf?id=S92C7ywZAQ).
+- [A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty](https://doi.org/10.1609/icaps.v34i1.31475).
 
   **Zhikang Fan**, Weiran Shen.
 
@@ -82,28 +88,38 @@ My research interest lies in the intersection between computer science and econo
 
 
 # 📝 Working Papers 
-- **Zhikang Fan**, Lan Hu, Ruirui Wang, Zhongrui Ma, Yue Wang, Qi Ye, Weiran Shen. [Two-stage Auction Design in Online Advertising](https://zhikang-fan.github.io/). Under review.
-- **Zhikang Fan**, Weiran Shen. [Optimal Mediation Mechanisms in Bilateral Trade](https://zhikang-fan.github.io/). Under review.
-- **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/). Under review.
-- Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [Information Design with Deep Learning: A Decentralized Training Approach](https://zhikang-fan.github.io/). Under review.
+- **Zhikang Fan**, Weiran Shen. [Optimal Mediation Mechanisms in Bilateral Trade](https://zhikang-fan.github.io/). 
+- **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/).
+- Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [Information Design with Deep Learning: A Decentralized Training Approach](https://zhikang-fan.github.io/). 
 
 # 🎖 Honors and Awards
-- *2023.10* Second Class Academic Scholarship, Renmin University of China
-- *2020.06* Outstanding Graduates, Huazhong University of Science and Technology.
-- *2019.09* Hainan Airlines(HNA) Scholarship, Huazhong University of Science and Technology.
-- *2018.09* Merit Student Scholarship, Huazhong University of Science and Technology.
+- *2025* Outstanding Graduates, Renmin University of China
+- *2023,2024* Second Class Academic Scholarship, Renmin University of China
+- *2020* Outstanding Graduates, Huazhong University of Science and Technology.
+- *2019* Hainan Airlines(HNA) Scholarship, Huazhong University of Science and Technology.
+- *2018,2019* Merit Student Scholarship, Huazhong University of Science and Technology.
 
 # 📖 Educations
-- *2020.09 - present*, Ph.D. Renmin University of China. 
+- *2020.09 - 2025.06*, Ph.D. Renmin University of China. 
 - *2016.09 - 2020.06*, B.S. Huazhong University of Science and Technology
 
-<!--
+
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+- **2024.12**, Singapore, *International Conference on Distributed Artificial Intelligence*,
+  🎤 *"Optimal Fixed-price Mechanism with Signaling"*
+
+- **2024.07**, Wuxi, China, *CCF CE Annual Conference*,
+  🎤 *"Optimal Mediation Mechanism in Bilateral Trade"*
+
+- **2024.06**, Virtual, *International Conference on Automated Planning and Scheduling*,
+  🎤 *"A Fast Algorithm for $k$-Memory Messaging Scheme Design in Dynamic Environments with a Far-Sighted Receiver"*
+
+- **2023.08**, Macao, China, *International Joint Conference on Artificial Intelligence*,
+  🎤 *"Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities"*
+
 
 # 💻 Internships
+- *2025.01 - 2025.07*, Meituan, Beijing.
 - *2024.06 - 2025.09*, Meituan, Beijing.
 - *2023.06 - 2024.05*, Huawei, Beijing.
 
