@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm) (GSAI), [Renmin University of China](https://en.ruc.edu.cn/), advised by Prof. [Weiran Shen](https://www.weiran-shen.info/). Before that, I obtained a B.S. degree in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST).
+I obtained my Ph.D. degree in Computer Science from [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm) (GSAI), [Renmin University of China](https://en.ruc.edu.cn/), advised by Prof. [Weiran Shen](https://www.weiran-shen.info/). Before that, I obtained a B.S. degree in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST).
 
-My research interest lies in the intersection between computer science and economics -- addressing problems with economic motivations through the lens of computer science. Specifically, my research involves the following fields:
-- Mechanism design in environments with information asymmetry.
-- Data-driven mechanism design.
+My research lies at the intersection of economics and computation, with a focus on auctions and mechanism design, information design, game theory, and machine learning. Recently, I have been particularly interested in:
+- Mechanism design and information design in two-sided markets
+- Data-driven mechanism/auction design
 
 
 # 🔥 News
