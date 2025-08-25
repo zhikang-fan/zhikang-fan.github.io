@@ -29,9 +29,7 @@ My research interest lies in the intersection between computer science and econo
 - *2024.10*: &nbsp;🎉🎉 Our paper ''Optimal Fixed-price Mechanism with Signaling'' is accepted by DAI'24.
 - *2024.06*: &nbsp;🎉🎉 Our paper ''Two-stage Auction Design in Online Advertising'' is accepted by EC'24 Workshop on Frontiers of Online Advertising.
 - *2024.04*: &nbsp;🎉🎉 Our paper ''Optimal Auction Design with User Coupons in Advertising Systems'' is accepted by IJCAI 2024.
-- *2024.02*: &nbsp;🎉🎉 Our paper ''A Fast Algorithm for k-Memory Messaging Scheme Design in Dynamic Environments with Uncertainty'' is accepted by ICAPS 2024. 
-- *2023.04*: &nbsp;🎉🎉 Our paper ''Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities'' is accepted by IJCAI 2023.
-- *2023.01*: &nbsp;🎉🎉 Our paper ''Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities'' is accepted by AAMAS 2023.
+
 
 # 📝 Publications 
 
