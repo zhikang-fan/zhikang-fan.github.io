@@ -92,16 +92,22 @@ My research lies at the intersection of economics and computation, with a focus 
 - **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/).
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [Information Design with Deep Learning: A Decentralized Training Approach](https://zhikang-fan.github.io/). 
 
+# 📖 Educations
+- *2020.09 - 2025.06*, Ph.D. Renmin University of China. 
+- *2016.09 - 2020.06*, B.S. Huazhong University of Science and Technology
+
+# 💻 Internships
+- *2025.01 - 2025.07*, Meituan, Beijing.
+- *2024.11 - 2024.12*, CUHKSZ, Shenzhen.
+- *2024.06 - 2024.09*, Meituan, Beijing.
+- *2023.09 - 2024.05*, Huawei, Beijing.
+
 # 🎖 Honors and Awards
 - Outstanding Graduates, Renmin University of China
 - Second Class Academic Scholarship, Renmin University of China
 - Outstanding Graduates, Huazhong University of Science and Technology.
 - Hainan Airlines(HNA) Scholarship, Huazhong University of Science and Technology.
 - Merit Student Scholarship, Huazhong University of Science and Technology.
-
-# 📖 Educations
-- *2020.09 - 2025.06*, Ph.D. Renmin University of China. 
-- *2016.09 - 2020.06*, B.S. Huazhong University of Science and Technology
 
 <!-- 
 # 💬 Invited Talks
@@ -114,11 +120,6 @@ My research lies at the intersection of economics and computation, with a focus 
 - **2023.08**, Macao, China, *International Joint Conference on Artificial Intelligence*, *"Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities"*
 -->
 
-# 💻 Internships
-- *2025.01 - 2025.07*, Meituan, Beijing.
-- *2024.11 - 2024.12*, CUHKSZ, Shenzhen.
-- *2024.06 - 2024.09*, Meituan, Beijing.
-- *2023.09 - 2024.05*, Huawei, Beijing.
 
 # 🗺️ Visitor Map
 
