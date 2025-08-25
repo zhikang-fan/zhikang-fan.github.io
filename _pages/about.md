@@ -93,11 +93,11 @@ My research interest lies in the intersection between computer science and econo
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [Information Design with Deep Learning: A Decentralized Training Approach](https://zhikang-fan.github.io/). 
 
 # 🎖 Honors and Awards
-- *2025* Outstanding Graduates, Renmin University of China
-- *2023,2024* Second Class Academic Scholarship, Renmin University of China
-- *2020* Outstanding Graduates, Huazhong University of Science and Technology.
-- *2019* Hainan Airlines(HNA) Scholarship, Huazhong University of Science and Technology.
-- *2018,2019* Merit Student Scholarship, Huazhong University of Science and Technology.
+- Outstanding Graduates, Renmin University of China
+- Second Class Academic Scholarship, Renmin University of China
+- Outstanding Graduates, Huazhong University of Science and Technology.
+- Hainan Airlines(HNA) Scholarship, Huazhong University of Science and Technology.
+- Merit Student Scholarship, Huazhong University of Science and Technology.
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D. Renmin University of China. 
