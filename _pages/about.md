@@ -116,7 +116,8 @@ My research lies at the intersection of economics and computation, with a focus 
 
 # 💻 Internships
 - *2025.01 - 2025.07*, Meituan, Beijing.
-- *2024.06 - 2025.09*, Meituan, Beijing.
+- *2024.11 - 2024.12*, CUHKSZ, Shenzhen.
+- *2024.06 - 2024.09*, Meituan, Beijing.
 - *2023.09 - 2024.05*, Huawei, Beijing.
 
 # 🗺️ Visitor Map
