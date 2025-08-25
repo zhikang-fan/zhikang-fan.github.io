@@ -88,7 +88,9 @@ My research interest lies in the intersection between computer science and econo
 
 
 # 📝 Working Papers 
-- **Zhikang Fan**, Weiran Shen. [Optimal Mediation Mechanisms in Bilateral Trade](https://zhikang-fan.github.io/). 
+
+- **Zhikang Fann**, Xingrui Li, Shaowen Zhang, Jianpei Wen, Su Zhao, Chen Shuai, Wei Lin, Lu Zou, Ruohan Zhan, Pin Gao. [Multi-product Joint Pricing in Online Travel Platform](https://zhikang-fan.github.io/).
+- **Zhikang Fan**, Weiran Shen, Shaojie Tang, Yao Wang. [Profit-Maximizing Mediation Mechanisms in Bilateral Trade with Interdependent Valuations](https://zhikang-fan.github.io/).
 - **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/).
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [Information Design with Deep Learning: A Decentralized Training Approach](https://zhikang-fan.github.io/). 
 
@@ -103,25 +105,21 @@ My research interest lies in the intersection between computer science and econo
 - *2020.09 - 2025.06*, Ph.D. Renmin University of China. 
 - *2016.09 - 2020.06*, B.S. Huazhong University of Science and Technology
 
-
+<!-- 
 # 💬 Invited Talks
-- **2024.12**, Singapore, *International Conference on Distributed Artificial Intelligence*,
-  🎤 *"Optimal Fixed-price Mechanism with Signaling"*
+- **2024.12**, Singapore, *International Conference on Distributed Artificial Intelligence*, *"Optimal Fixed-price Mechanism with Signaling"*
 
-- **2024.07**, Wuxi, China, *CCF CE Annual Conference*,
-  🎤 *"Optimal Mediation Mechanism in Bilateral Trade"*
+- **2024.07**, Wuxi, China, *CCF CE Annual Conference*, *"Optimal Mediation Mechanism in Bilateral Trade"*
 
-- **2024.06**, Virtual, *International Conference on Automated Planning and Scheduling*,
-  🎤 *"A Fast Algorithm for $k$-Memory Messaging Scheme Design in Dynamic Environments with a Far-Sighted Receiver"*
+- **2024.06**, Virtual, *International Conference on Automated Planning and Scheduling*, *"A Fast Algorithm for $k$-Memory Messaging Scheme Design in Dynamic Environments with a Far-Sighted Receiver"*
 
-- **2023.08**, Macao, China, *International Joint Conference on Artificial Intelligence*,
-  🎤 *"Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities"*
-
+- **2023.08**, Macao, China, *International Joint Conference on Artificial Intelligence*, *"Revenue Maximization Mechanisms for an Uninformed Mediator with Communication Abilities"*
+-->
 
 # 💻 Internships
 - *2025.01 - 2025.07*, Meituan, Beijing.
 - *2024.06 - 2025.09*, Meituan, Beijing.
-- *2023.06 - 2024.05*, Huawei, Beijing.
+- *2023.09 - 2024.05*, Huawei, Beijing.
 
 # 🗺️ Visitor Map
 
