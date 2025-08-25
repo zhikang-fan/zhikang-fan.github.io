@@ -87,7 +87,7 @@ My research lies at the intersection of economics and computation, with a focus 
 
 # 📝 Working Papers 
 
-- **Zhikang Fann**, Xingrui Li, Shaowen Zhang, Jianpei Wen, Su Zhao, Chen Shuai, Wei Lin, Lu Zou, Ruohan Zhan, Pin Gao. [Multi-product Joint Pricing in Online Travel Platform](https://zhikang-fan.github.io/).
+- **Zhikang Fan**, Xingrui Li, Shaowen Zhang, Jianpei Wen, Su Zhao, Chen Shuai, Wei Lin, Lu Zou, Ruohan Zhan, Pin Gao. [Multi-product Joint Pricing in Online Travel Platform](https://zhikang-fan.github.io/).
 - **Zhikang Fan**, Weiran Shen, Shaojie Tang, Yao Wang. [Profit-Maximizing Mediation Mechanisms in Bilateral Trade with Interdependent Valuations](https://zhikang-fan.github.io/).
 - **Zhikang Fan**, Weiran Shen. [Selling a Single Item through Persuasion](https://zhikang-fan.github.io/).
 - Xiaodong Liu, **Zhikang Fan**, Xun Wang, Weiran Shen. [Information Design with Deep Learning: A Decentralized Training Approach](https://zhikang-fan.github.io/). 
