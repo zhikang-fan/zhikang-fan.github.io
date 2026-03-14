@@ -119,4 +119,4 @@ My research lies at the intersection of economics and computation, with a focus 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5pudaj4xnp2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 -->
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=180&t=n&d=nUVTXHtZmn0z8I-PN2kNHkZKUxJjery-hHSlitIzVt8'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=240&t=n&d=nUVTXHtZmn0z8I-PN2kNHkZKUxJjery-hHSlitIzVt8'></script>
