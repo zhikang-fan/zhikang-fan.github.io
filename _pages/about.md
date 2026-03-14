@@ -94,10 +94,6 @@ My research lies at the intersection of economics and computation, with a focus 
 - *2020.09 - 2025.06*, Ph.D. Renmin University of China. 
 - *2016.09 - 2020.06*, B.S. Huazhong University of Science and Technology
 
-# 💻 Internships
-- *2025.01 - 2025.07*, Meituan, Beijing.
-- *2024.06 - 2024.09*, Meituan, Beijing.
-- *2023.09 - 2024.05*, Huawei, Beijing.
 
 # 🎖 Honors and Awards
 - Outstanding Graduates, Renmin University of China
